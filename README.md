@@ -1,4 +1,4 @@
-An example template using [Vue 3](https://v3.vuejs.org/).
+An example template using [Vue 3](https://v3.vuejs.org/) with TypeScript.
 
 # Install
 
